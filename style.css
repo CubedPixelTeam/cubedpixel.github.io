@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background-color: #222426;
+    font-family: verdana, sans-serif;
+}
+.side_game{
+    background-color: #222426;
+    border-style:solid;
+    border-color:#393e40;
+    border-width:3px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
